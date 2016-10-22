@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{730520D5-71E9-CCC3-955E-755B06B5BFC3}") = "ShadowGJ", "Assembly-CSharp.csproj", "{8559ADC9-316C-9D8F-8A16-79095121A100}"
+Project("{815E96F9-8FC7-55C7-E0DB-62CA5157CFAD}") = "DayAndShadow", "Assembly-CSharp.csproj", "{9108FA6E-96C5-D3FE-F962-68B63238CAD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8559ADC9-316C-9D8F-8A16-79095121A100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8559ADC9-316C-9D8F-8A16-79095121A100}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8559ADC9-316C-9D8F-8A16-79095121A100}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8559ADC9-316C-9D8F-8A16-79095121A100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9108FA6E-96C5-D3FE-F962-68B63238CAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9108FA6E-96C5-D3FE-F962-68B63238CAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9108FA6E-96C5-D3FE-F962-68B63238CAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9108FA6E-96C5-D3FE-F962-68B63238CAD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
