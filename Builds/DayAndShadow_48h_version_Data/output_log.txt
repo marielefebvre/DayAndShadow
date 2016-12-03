@@ -14,118 +14,14 @@ Platform assembly: D:\Development\Unity Projects\DayAndShadow\Builds\DayAndShado
 Loading D:\Development\Unity Projects\DayAndShadow\Builds\DayAndShadow_48h_version_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\Development\Unity Projects\DayAndShadow\Builds\DayAndShadow_48h_version_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\Development\Unity Projects\DayAndShadow\Builds\DayAndShadow_48h_version_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.085 seconds
+- Completed reload, in  0.048 seconds
 Platform assembly: D:\Development\Unity Projects\DayAndShadow\Builds\DayAndShadow_48h_version_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Development\Unity Projects\DayAndShadow\Builds\DayAndShadow_48h_version_Data\Managed\System.dll (this message is harmless)
-desktop: 1920x1080 48Hz; virtual: 1920x1080 at 0,0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.736395 ms
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.443164 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 260.
-Total: 0.192395 ms (FindLiveObjects: 0.015012 ms CreateObjectMapping: 0.011456 ms MarkObjects: 0.161185 ms  DeleteObjects: 0.003950 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.378864 ms
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 249.
-Total: 0.222419 ms (FindLiveObjects: 0.013827 ms CreateObjectMapping: 0.009481 ms MarkObjects: 0.188049 ms  DeleteObjects: 0.010666 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.433778 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 216.
-Total: 0.163160 ms (FindLiveObjects: 0.011061 ms CreateObjectMapping: 0.009086 ms MarkObjects: 0.139851 ms  DeleteObjects: 0.002765 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.366222 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 249.
-Total: 0.212543 ms (FindLiveObjects: 0.013037 ms CreateObjectMapping: 0.010666 ms MarkObjects: 0.185284 ms  DeleteObjects: 0.003160 ms)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.423111 ms
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 255.
-Total: 0.188839 ms (FindLiveObjects: 0.013037 ms CreateObjectMapping: 0.009481 ms MarkObjects: 0.162765 ms  DeleteObjects: 0.003160 ms)
-
-rest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-REST
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-rest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Sunrise
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-REST
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-rest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-REST
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-rest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-REST
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-rest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-REST
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-rest
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Sunset
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Sunrise
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-End menu
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-REST
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Reselecting first input
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.612346 ms
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 249.
-Total: 3.205533 ms (FindLiveObjects: 0.019753 ms CreateObjectMapping: 0.010271 ms MarkObjects: 0.231901 ms  DeleteObjects: 2.942817 ms)
-
+UnloadTime: 0.591407 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3980 -> priority: 1 
-  Thread -> id: 330c -> priority: 1 
+  Thread -> id: 3644 -> priority: 1 
+  Thread -> id: 30f0 -> priority: 1 
